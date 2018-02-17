@@ -7,6 +7,5 @@ int main(){
   std::cin >> num;
   std::cout << "Su numero es " << num*2;
   //Este es un comentario para github
-  //Este es otro comentario para github
   return 0;
 }
