@@ -6,5 +6,6 @@ int main(){
   //Se usa std::cin >> num para introducir un valor a la variable num pr medio del teclado
   std::cin >> num;
   std::cout << "Su numero es " << num*2;
+  //Este es un comentario para github
   return 0;
 }
